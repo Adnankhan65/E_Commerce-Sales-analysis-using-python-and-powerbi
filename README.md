@@ -253,9 +253,9 @@ The dashboard helps businesses:
 
 # 📸 Dashboard Preview
 
-🔗 [View Dashboard](https://github.com/Adnankhan65/E_Commerce-Sales-analysis-using-python-and-powerbi/blob/main/dashboardpg1.png)
-🔗 [View Dashboard](https://github.com/Adnankhan65/E_Commerce-Sales-analysis-using-python-and-powerbi/blob/main/dashboardpg2.png)
-🔗 [View Dashboard](https://github.com/Adnankhan65/E_Commerce-Sales-analysis-using-python-and-powerbi/blob/main/dashboardpg3.png)
+![Model View](https://github.com/Adnankhan65/E_Commerce-Sales-analysis-using-python-and-powerbi/blob/main/dashboardpg1.png)
+![Model View](https://github.com/Adnankhan65/E_Commerce-Sales-analysis-using-python-and-powerbi/blob/main/dashboardpg2.png)
+![Model View](https://github.com/Adnankhan65/E_Commerce-Sales-analysis-using-python-and-powerbi/blob/main/dashboardpg3.png)
 
 ---
 
