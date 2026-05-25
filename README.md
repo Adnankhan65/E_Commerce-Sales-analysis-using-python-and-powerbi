@@ -174,7 +174,7 @@ The dashboard was built using Power BI with interactive visuals and DAX measures
 
 Relationships were created between:
 
-
+![Model view](https://github.com/Adnankhan65/E_Commerce-Sales-analysis-using-python-and-powerbi/blob/main/Relationship_Tables.png)
 
 A star schema approach was followed for better performance and scalability.
 
